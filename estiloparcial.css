@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-o/04/5d/7a/ca/pizzeria-italia.jpg);
+    background-repeat: repeat;
+    /*background-attachment: fixed;*/
+    background-size: auto;
+    /*background-color: lightYellow;*/
+
+}
+.titulo{
+    text-align: center;
+    font-family: cursive;
+    color: orange;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+    color: gold;
+}
+
+.parrafo{
+    text-align: justify;
+    max-width: 300px; 
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    line-height: 200%;
+    font-family: 'Dancing Script', cursive;
+}
+.referencias{
+    text-align: right;
+    font-weight: bolder;
+    color: black;
+}
+ol {
+    list-style-type: decimal; 
+    padding-left: 20px; 
+}
+
+ol ol {
+    list-style-type: lower-alpha; 
+    padding-left: 20px; 
+}
+.titulomenu{
+    text-align: center;
+    color: orange;
+}
+.quesopizza{
+    font-size: 20px;
+    text-align: center;
+}
+.bodymenu{
+    background-image: url(https://blog.uber-cdn.com/cdn-cgi/image/width=2160,quality=80,onerror=redirect,format=auto/wp-content/uploads/2019/04/Informaci%C3%B3n-sobre-el-lago-de-Atitl%C3%A1n.png);
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+
+
+
+
+
